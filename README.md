@@ -11,11 +11,10 @@ python pyeditor.py /path/to/file
 
 ## Dependencies
 pyeditor needs the curses module to work.
-If you're on Windows you need windows-curses:
+If you're on Windows you need windows-curses (Linux ditros should come with curses installed by default):
 ```
 pip install windows-curses
 ```
-Linux ditros should come with curses installed by default.
 Also, it optionally uses pyperclip for acessing the system clipboard:
 ```
 pip install pyperclip
