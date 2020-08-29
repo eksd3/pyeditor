@@ -9,11 +9,11 @@ pyeditor needs the curses module to work:
 pip install curses
 ```
 
-Also, it optionally uses pyperclip for acessing the system clipboard
+Also, it optionally uses pyperclip for acessing the system clipboard:
 ```
 pip install pyperclip
 ```
-If pyperclip is not found clipboard functions might not work correctly
+If pyperclip is not found clipboard functions might not work correctly.
 
 ## Help
 You can press 'H' to access the help window.
