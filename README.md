@@ -25,4 +25,5 @@ If pyperclip is not found clipboard functions will not work.
 You can press 'H' to access the help window.
 
 ## Bugs
-Pyeditor currently does not support terminal window resizing.
+- Currently does not support terminal window resizing.
+- Copying and pasting from local buffer ('y' and 'p') currently only works as intended on single-line buffers
