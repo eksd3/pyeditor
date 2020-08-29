@@ -3,6 +3,12 @@ A curses text editor written in Python.
 
 ![pyeditor](https://github.com/eksd3/pyeditor/blob/master/pyeditor.png)
 
+## Running
+To run, simply execute pyeditor.py and optionally supply a filename:
+```
+python pyeditor.py /path/to/file
+```
+
 ## Dependencies
 pyeditor needs the curses module to work:
 ```
