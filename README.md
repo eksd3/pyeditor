@@ -1,7 +1,7 @@
 # pyeditor
 A curses text editor written in Python.
 
-![pyeditor](https://github.com/eksd3/pyeditor/pyeditor.png)
+![pyeditor](https://github.com/eksd3/pyeditor/blob/master/pyeditor.png)
 
 ## Dependencies
 pyeditor needs the curses module to work:
